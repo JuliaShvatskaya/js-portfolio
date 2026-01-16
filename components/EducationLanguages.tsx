@@ -19,8 +19,8 @@ const EducationLanguages: React.FC = () => {
   ];
 
   const languages = [
-    { name: "Ukrainian", proficiency: "Native", flag: "🇺🇦" },
-    { name: "Russian", proficiency: "Native", flag: "" },
+    { name: "Russian", proficiency: "Native", flag: "🇺🇦" },
+    { name: "Ukrainian", proficiency: "Native", flag: "" },
     { name: "English", proficiency: "Professional working proficiency", flag: "🇺🇸" }
   ];
 
